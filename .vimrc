@@ -290,8 +290,9 @@ map <leader>sw :FSHere<CR>
 " 自动生成实现
 map <leader>d <leader>PP
 
-
+" 基于语义跳转 不一定有用
 map <leader><leader>jc :YcmCompleter GoToDeclaration<CR>
+" 只有包含的include 文件才能跳转
 map <leader><leader>jd :YcmCompleter GoToDefinition<CR>
 map <leader>jd <C-]>
 map <leader>jf <C-T>
