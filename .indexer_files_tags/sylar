@@ -1,0 +1,22 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Logger	/home/tractors/Code/Sylar/include/_logger.h	/^    Logger();$/;"	p	language:C++	class:Logger	access:public	signature:()
+Logger	/home/tractors/Code/Sylar/include/_logger.h	/^class Logger$/;"	c	language:C++
+Logger	/home/tractors/Code/Sylar/src/_logger.cpp	/^Logger::Logger()$/;"	f	language:C++	class:Logger	signature:()
+Logger::Logger	/home/tractors/Code/Sylar/include/_logger.h	/^    Logger();$/;"	p	language:C++	class:Logger	access:public	signature:()
+Logger::Logger	/home/tractors/Code/Sylar/src/_logger.cpp	/^Logger::Logger()$/;"	f	language:C++	class:Logger	signature:()
+Logger::setFile	/home/tractors/Code/Sylar/include/_logger.h	/^    void setFile();$/;"	p	language:C++	class:Logger	access:public	signature:()
+Logger::setFile	/home/tractors/Code/Sylar/src/_logger.cpp	/^void Logger::setFile()$/;"	f	language:C++	class:Logger	signature:()
+__LOGGER_H	/home/tractors/Code/Sylar/include/_logger.h	12;"	d	language:C++
+endl	/home/tractors/Code/Sylar/src/_test.cpp	/^    std::cout << "123" << std::endl;$/;"	m	language:C++	class:std	file:
+logger	/home/tractors/Code/Sylar/src/_test.cpp	/^    Logger logger;$/;"	l	language:C++
+main	/home/tractors/Code/Sylar/src/_test.cpp	/^int main()$/;"	f	language:C++	signature:()
+setFile	/home/tractors/Code/Sylar/include/_logger.h	/^    void setFile();$/;"	p	language:C++	class:Logger	access:public	signature:()
+setFile	/home/tractors/Code/Sylar/src/_logger.cpp	/^void Logger::setFile()$/;"	f	language:C++	class:Logger	signature:()
+setFile	/home/tractors/Code/Sylar/src/_test.cpp	/^    logger.setFile();$/;"	p	language:C++	file:	signature:()
+std::endl	/home/tractors/Code/Sylar/src/_test.cpp	/^    std::cout << "123" << std::endl;$/;"	m	language:C++	class:std	file:
+str	/home/tractors/Code/Sylar/src/_test.cpp	/^    std::string str;$/;"	l	language:C++
